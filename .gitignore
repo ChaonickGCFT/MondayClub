@@ -1,0 +1,8 @@
+﻿.deps/
+artifacts/
+cache/
+.states/
+*.dbg.json
+state.json
+0.json
+*.tmp
